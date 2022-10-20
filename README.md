@@ -28,6 +28,8 @@ npm run dev
 ```
 ### Production build
 
+**Note: There is a bug in Vite that makes serving in production not work properly. Refrain from trying this method until it is solved.**
+
 Alternatively you can build the project and run a local production instance, using either `nginx` or `serve`. 
 
 To create a production build execute
